@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(39, 126, 126);
+    color: black;
+}
+.heading{
+    font-size: 22px;
+    width: 90%;
+}
+#object_name, #object_accuracy,p{
+color: cornsilk;
+}
+
+#cam{
+    
+    border:2px solid black;
+}
+#head{
+    color: gray;
+}
